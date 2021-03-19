@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cibmlab/cibmlab.git"
+    "url": "git+https://github.com/jarrekk/Jalpc.git"
   },
   "author": "Kun Jia",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jarrekk/Jalpc/issues"
   },
-  "homepage": "https://cibmlab.github.io",
+  "homepage": "https://github.com/jarrekk/Jalpc#readme",
   "dependencies": {
     "animate.css": "^3.5.2",
     "bootstrap": "^3.3.6",
