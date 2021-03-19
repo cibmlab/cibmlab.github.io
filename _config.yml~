@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   #skill_icon2:
   #  - name: fa-linux
   #  - name: icon-apache
-  desc: The *Computation in Brains and Machines* group is located at the Institute.  # Describe yourself.
+  desc: The <a>Computation in Brains and Machines</a> group is located at the Institute.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
