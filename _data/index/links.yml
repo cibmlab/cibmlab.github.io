@@ -1,18 +1,30 @@
 # links section data
 - last_name: Michael Hawrylycz
-  desc: 
+  desc: Allen Institute
   website: https://www.google.com
 
 - last_name: Stephen Smith
-  desc: 
+  desc: Allen Institute
   website: 
 
 - last_name: Eric Shea-Brown
-  desc: 
+  desc: UW Applied Math, Comp. Neuroscience Center
   website: https://github.com
 
 - last_name: Su-In Lee
-  desc:	      
+  desc: UW School of Computer Science
+  website: https://github.com
+
+- last_name: Liam Paninski
+  desc:	     Columbia Statistics, Neuroscience
+  website: https://github.com
+
+- last_name: Sebastian Seung
+  desc:	     Princeton Computer Science, Neuroscience
+  website: https://github.com
+
+- last_name: Il Memming Park
+  desc:	     StonyBrook Neurobiology and Behavior
   website: https://github.com
 
 - last_name: UW Paul G. Allen School of Computer Science
