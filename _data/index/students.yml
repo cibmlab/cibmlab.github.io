@@ -1,17 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
-- name: IG
+- name: IC
   photo:
   url:
-  desc: columbia
+  desc: PhD student at UW in Su-In Lee's lab
 
-- name: JG
+- name: HL
   photo:
   url:
-  desc: caltech
+  desc: PhD student at UW in Eric Shea-Brown's lab
 
-- name: CL
-  photo:
-  url:
-  desc: allen

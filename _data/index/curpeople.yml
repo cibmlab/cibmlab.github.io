@@ -1,27 +1,27 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: FB
-  img: static/assets/img/landing/us.jpg
-  url: https://www.alleninstitute.org
+- name: Fahimeh Baftizadeh, PhD
+  img: static/assets/img/landing/fb.jpg
+  url: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/fahimeh-baftizadeh/
   present: true
 
-- name: RG
-  photo:
-  url:
+- name: Rohan Gala, PhD
+  photo: static/assets/img/landing/rg.jpg
+  url: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/rohan-gala/
   present: true
 
-- name: OG
-  photo:
-  url:
+- name: Olga Gliko, PhD
+  photo: static/assets/img/landing/og.jpg
+  url: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/olga-gliko/
   present: true
 
-- name: YM
-  photo:
-  url:
+- name: Yeganeh Marghi, PhD
+  photo: static/assets/img/landing/ym.jpg
+  url: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/yeganeh-marghi/
   present: true
 
-- name: US
-  photo:
-  url:
+- name: Uygar Sümbül, PhD
+  photo: static/assets/img/landing/us.jpg
+  url: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/uygar-sumbul/
   present: true
 

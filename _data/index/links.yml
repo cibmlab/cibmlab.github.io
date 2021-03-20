@@ -1,17 +1,35 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
+- last_name: Hawrylycz
+  first_name: Michael
+  desc: 
   website: https://www.google.com
-  email: ceo@google.com
+
+- last_name: Smith
+  first_name: Stephen
+  desc: 
+  website: 
+
+- last_name: Shea-Brown
+  first_name: Eric
+  desc: 
+  website: https://github.com
+
+- last_name: Lee
+  first_name: Su-In
+  desc:	      
+  website: https://github.com
+
+- last_name: Paul G. Allen School of Computer Science
+  first_name: UW
+  desc:	      
+  website: https://github.com
+
+- last_name: Postdoctoral Fellowship
+  first_name: Shanahan Foundation
+  desc:
+  website: https://github.com
 
 - last_name: Jalpc
   first_name:
   desc: This site imports the Jalpc Jekyll theme.
   website: https://github.com/jarrekk/Jalpc
-
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com

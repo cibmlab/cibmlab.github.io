@@ -41,7 +41,7 @@
         </div>
     </div>
     <div class="row">
-        {% for people in site.data.index.curpeople %}
+        {% for people in site.data.index.pastpeople %}
             {% assign loopindex = forloop.index | modulo: 2 %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}

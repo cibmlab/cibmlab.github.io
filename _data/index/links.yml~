@@ -5,11 +5,10 @@
   website: https://www.google.com
   email: ceo@google.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Jalpc
+  first_name:
+  desc: This site imports the Jalpc Jekyll theme.
+  website: https://github.com/jarrekk/Jalpc
 
 - last_name: LN
   first_name: FN
