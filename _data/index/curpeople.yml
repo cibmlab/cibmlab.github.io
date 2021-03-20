@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name: FB
-  photo: static/assets/img/landing/us.jpg
+  img: static/assets/img/landing/us.jpg
   url: https://www.alleninstitute.org
   present: true
 
