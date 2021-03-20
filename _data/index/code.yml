@@ -1,27 +1,17 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: FB
-  photo: 
+- name: Consistent cross-modal identification of cell types
   url: https://www.alleninstitute.org
-  present: true
 
-- name: RG
-  photo:
+- name: Peptidergic gene expression in the cortex
   url:
-  present: true
 
-- name: OG
-  photo:
+- name: Brainbow image segmentation
   url:
-  present: true
 
-- name: YM
-  photo:
+- name: Volumetric analysis of retinal ganglion cells
   url:
-  present: true
 
-- name: US
-  photo:
+- name: Morpho-molecular analysis of retinal ganglion cells
   url:
-  present: true
 
