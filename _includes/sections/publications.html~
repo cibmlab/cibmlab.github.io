@@ -17,6 +17,7 @@
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
                         <h2><span data-i18n="publications.{{ publications.title.i18n }}">{{ publications.title }}</span></h2>
                         <p><span data-i18n="publications.{{ publications.venue.i18n }}">{{ publications.venue }} </span></p>
+                        <p><span data-i18n="publications.{{ publications.authors.i18n }}">{{ publications.authors }} </span></p>
                         <span class="vertical-date"><span data-i18n="publications.{{ publications.year.i18n }}"> {{ publications.year }} </span>
                         <br/> <small><span data-i18n="publications.{{ publications.year.i18n }}">{{ publications.year.detail }}</span></small> </span>
                     </div>
