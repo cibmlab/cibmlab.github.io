@@ -8,18 +8,20 @@
     <div class="row features-block">
         <div class="col-lg-12">
             <div id="vertical-timeline" class="vertical-container light-timeline center-orientation">
-            {% for publications in site.data.index.publications %}
+            {% for year in site.data.index.publications %}
             {% assign loopindex = forloop.index | modulo: 2 %}
                 <div class="vertical-timeline-block">
-                    <div class="vertical-timeline-icon {% if publications.present ==  true %} navy-bg-present {% else %} navy-bg {% endif %} wow rotateIn">
+                    <div class="vertical-timeline-icon {% if year.present ==  true %} navy-bg-present {% else %} navy-bg {% endif %} wow rotateIn">
                         <i class="fa {{ publications.icon }}"></i>
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
-                        <h2><a href="{{publications.url }}" ><span data-i18n="publications.{{ publications.title.i18n }}">{{ publications.title }}</span></a></h2>
-                        <p><span data-i18n="publications.{{ publications.venue.i18n }}">{{ publications.venue }} </span></p>
-                        <p><span data-i18n="publications.{{ publications.authors.i18n }}">{{ publications.authors }} </span></p>
-                        <span class="vertical-date"><span data-i18n="publications.{{ publications.year.i18n }}"> {{ publications.year }} </span>
-                        <br/> <small><span data-i18n="publications.{{ publications.year.i18n }}">{{ publications.year.detail }}</span></small> </span>
+		        {% for paper in year.papers %}
+                        <h2><a href="{{paper.url }}" ><span data-i18n="paper.{{ paper.title.i18n }}">{{ paper.title }}</span></a></h2>
+                        <p><span data-i18n="paper.{{ paper.venue.i18n }}">{{ paper.venue }} </span></p>
+                        <p><span data-i18n="paper.{{ paper.authors.i18n }}">{{ paper.authors }} </span></p>
+                        <span class="vertical-date"><span data-i18n="paper.{{ paper.year.i18n }}"> {{ paper.year }} </span>
+                        <br/> <small><span data-i18n="paper.{{ paper.year.i18n }}">{{ paper.year.detail }}</span></small> </span>
+			{% endfor %}
                     </div>
                 </div>
             {% endfor %}

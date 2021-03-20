@@ -2,66 +2,74 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name:  GalaEtAl2021
-  i18n:
-  title: Consistent cross-modal identification of cortical neurons with coupled autoencoders
-  authors: R Gala, A Budzillo, F Baftizadeh, J Miller, N Gouwens, A Arkhipov, G Murphy, B Tasic, H Zeng, M Hawrylycz, U Sümbül
-  url: https://www.biorxiv.org/content/10.1101/2020.06.30.181065v2
-  venue: Nature Computational Science
-  year:  2021
+- year: 2021
+  papers:
+  - name:  GalaEtAl2021
+    i18n:
+    title: Consistent cross-modal identification of cortical neurons with coupled autoencoders
+    authors: R Gala, A Budzillo, F Baftizadeh, J Miller, N Gouwens, A Arkhipov, G Murphy, B Tasic, H Zeng, M Hawrylycz, U Sümbül
+    url: https://www.biorxiv.org/content/10.1101/2020.06.30.181065v2
+    venue: Nature Computational Science
 
-- name:  SmithEtAl2020
-  i18n:
-  title: New light on cortical neuropeptides and synaptic network plasticity
-  authors: S J Smith, M Hawrylycz, J Rossier, U Sümbül
-  url: https://www.sciencedirect.com/science/article/pii/S0959438820300817
-  venue: Current Opinion in Neurobiology
-  year:  2020
+  - name:  LiuEtAl2021
+    i18n:
+    title: A solution to temporal credit assignment using cell-type-specific modulatory signals
+    authors: Y H Liu, S Smith, S Mihalas, E Shea-Brown, U Sümbül
+    url: 
+    venue: Cosyne
 
-- name:  IasconeEtAl2020
-  i18n:
-  title: Whole-neuron synaptic mapping reveals spatially precise excitatory/inhibitory balance limiting dendritic and somatic spiking
-  authors: D M Iascone, Y Li, U Sümbül, M Doron, H Chen, V Andreu, F Goudy, H Blockus, L F Abbott, I Segev, H Peng, F Polleux
-  url: http://home.penglab.com/papersall/docpdf/2020-Neuron-synapses.pdf
-  venue: Neuron
-  year:  2020
+- year: 2020
+  papers:
+  - name:  SmithEtAl2020
+    i18n:
+    title: New light on cortical neuropeptides and synaptic network plasticity
+    authors: S J Smith, M Hawrylycz, J Rossier, U Sümbül
+    url: https://www.sciencedirect.com/science/article/pii/S0959438820300817
+    venue: Current Opinion in Neurobiology
+  
+  - name:  IasconeEtAl2020
+    i18n:
+    title: Whole-neuron synaptic mapping reveals spatially precise excitatory/inhibitory balance limiting dendritic and somatic spiking
+    authors: D M Iascone, Y Li, U Sümbül, M Doron, H Chen, V Andreu, F Goudy, H Blockus, L F Abbott, I Segev, H Peng, F Polleux
+    url: http://home.penglab.com/papersall/docpdf/2020-Neuron-synapses.pdf
+    venue: Neuron
 
-- name:  GouwensEtAl2020
-  i18n:
-  title: Integrated morphoelectric and transcriptomic classification of cortical GABAergic cells
-  authors: N W Gouwens*, S A Sorensen*, F Baftizadeh, A Budzillo, B R Lee, T Jarsky, L Alfiler, K Baker, E Barkan, K Berry, D Bertagnolli, K Bickley, J Bomben, T Braun, K Brouner et al
-  url: https://www.sciencedirect.com/science/article/abs/pii/S009286742031254X
-  venue: Cell
-  year:  2020
+  - name:  GouwensEtAl2020
+    i18n:
+    title: Integrated morphoelectric and transcriptomic classification of cortical GABAergic cells
+    authors: N W Gouwens*, S A Sorensen*, F Baftizadeh, A Budzillo, B R Lee, T Jarsky, L Alfiler, K Baker, E Barkan, K Berry, D Bertagnolli, K Bickley, J Bomben, T Braun, K Brouner et al
+    url: https://www.sciencedirect.com/science/article/abs/pii/S009286742031254X
+    venue: Cell
 
-- name:  SmithEtAl2019
-  i18n:
-  title: Single-cell transcriptomic evidence for dense intracortical neuropeptide networks
-  authors: S J Smith, U Sümbül, L T Graybuck, F Collman, S Seshamani, R Gala, O Gliko, L Elabbady, J A Miller, T E Bakken, J Rossier, Z Yao, E Lein, H Zeng, B Tasic, M Hawrylycz
-  url: https://elifesciences.org/articles/47889
-  venue: eLife
-  year:  2019
+- year: 2019
+  papers:
+  - name:  SmithEtAl2019
+    i18n:
+    title: Single-cell transcriptomic evidence for dense intracortical neuropeptide networks
+    authors: S J Smith, U Sümbül, L T Graybuck, F Collman, S Seshamani, R Gala, O Gliko, L Elabbady, J A Miller, T E Bakken, J Rossier, Z Yao, E Lein, H Zeng, B Tasic, M Hawrylycz
+    url: https://elifesciences.org/articles/47889
+    venue: eLife
 
-- name: GalaEtAl2019
-  i18n:
-  title: A coupled autoencoder approach for multi-modal analysis of cell types
-  authors: R Gala, N Gouwens, Z Yao, A Budzillo, O Penn, B Tasic, G Murphy, H Zeng, U Sümbül
-  url: https://proceedings.neurips.cc/paper/2019/hash/30d4e6422cd65c7913bc9ce62e078b79-Abstract.html
-  venue: NeurIPS
-  year:  2019
+  - name: GalaEtAl2019
+    i18n:
+    title: A coupled autoencoder approach for multi-modal analysis of cell types
+    authors: R Gala, N Gouwens, Z Yao, A Budzillo, O Penn, B Tasic, G Murphy, H Zeng, U Sümbül
+    url: https://proceedings.neurips.cc/paper/2019/hash/30d4e6422cd65c7913bc9ce62e078b79-Abstract.html
+    venue: NeurIPS
 
-- name: GornetEtAl2019
-  i18n:
-  title: Reconstructing neuronal anatomy from whole-brain images
-  authors: J Gornet, K U Venkataraju, A Narasimhan, N Turner, K Lee, H S Seung, P Osten, U Sümbül
-  url: https://arxiv.org/pdf/1903.07027.pdf
-  venue: ISBI
-  year: 2019
+  - name: GornetEtAl2019
+    i18n:
+    title: Reconstructing neuronal anatomy from whole-brain images
+    authors: J Gornet, K U Venkataraju, A Narasimhan, N Turner, K Lee, H S Seung, P Osten, U Sümbül
+    url: https://arxiv.org/pdf/1903.07027.pdf
+    venue: ISBI
 
-- name: older
-  i18n:
-  title: Uygar's google scholar profile for older papers
-  authors: 
-  url: https://scholar.google.com/citations?user=dhiRjJIAAAAJ
-  venue: 
-  year: 2018 and older
+- year: 2018 and older
+  papers:
+  - name: older
+    i18n:
+    title: Uygar's google scholar profile for older papers
+    authors: 
+    url: https://scholar.google.com/citations?user=dhiRjJIAAAAJ
+    venue: 
+
