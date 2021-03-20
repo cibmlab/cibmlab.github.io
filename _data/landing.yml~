@@ -6,30 +6,17 @@
   tpl: about.html
   css:
 
-- id: career
-  i18n: nav.career
-  name: Career
-  tpl: career.html
+- id: people
+  i18n: nav.people
+  name: People
+  tpl: people.html
   css: timeline
 
-- id: skills
-  i18n: nav.skills
-  name: Skills
-  tpl: skills.html
+- id: publications
+  i18n: nav.publications
+  name: Publications
+  tpl: publications.html
   css: team
-
-- id: projects
-  i18n: nav.projects
-  name: Projects
-  tpl: projects.html
-  css: project
-
-- id: blog
-  i18n: nav.blog
-  name: Blog
-  tpl: blog.html
-  page: blog/
-  css: testimonials navy-section
 
 - id: links
   i18n: nav.link

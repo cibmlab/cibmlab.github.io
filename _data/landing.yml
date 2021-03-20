@@ -18,6 +18,12 @@
   tpl: publications.html
   css: team
 
+- id: code
+  i18n: nav.code
+  name: Code
+  tpl: code.html
+  css: 
+
 - id: links
   i18n: nav.link
   name: Links
