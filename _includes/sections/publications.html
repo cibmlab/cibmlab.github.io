@@ -15,7 +15,7 @@
                         <i class="fa {{ publications.icon }}"></i>
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
-		        <h2><span>{{ year.year }}</span></h2>
+		        <h1><span>{{ year.year }}</span></h1>
 		        {% for paper in year.papers %}
                         <h2><a href="{{paper.url }}" ><span data-i18n="paper.{{ paper.title.i18n }}">{{ paper.title }}</span></a></h2>
                         <p><span data-i18n="paper.{{ paper.venue.i18n }}">{{ paper.venue }} </span></p>
