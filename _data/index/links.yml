@@ -1,39 +1,47 @@
 # links section data
+- last_name: Allen Institute
+  desc:
+  website: https://alleninstitute.org
+
+- last_name: UW Paul G. Allen School of Computer Science
+  desc:
+  website: https://www.cs.washington.edu
+
+- last_name: UW Computational Neuroscience Center
+  desc:
+  website: https://compneuro.washington.edu
+
+- last_name: Shanahan Foundation Postdoctoral Fellowship
+  desc: Generous postdoc. fellowship at the interface of data and neuroscience
+  website: https://alleninstitute.org/what-we-do/brain-science/careers/shanahan-foundation-fellowship/
+
 - last_name: Michael Hawrylycz
   desc: Allen Institute
-  website: https://www.google.com
+  website: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/michael-hawrylycz/
 
 - last_name: Stephen Smith
   desc: Allen Institute
-  website: 
+  website: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/stephen-j-smith/
 
 - last_name: Eric Shea-Brown
   desc: UW Applied Math, Comp. Neuroscience Center
-  website: https://github.com
+  website: https://faculty.washington.edu/etsb/
 
 - last_name: Su-In Lee
   desc: UW School of Computer Science
-  website: https://github.com
+  website: https://suinlee.cs.washington.edu
 
 - last_name: Liam Paninski
-  desc:	     Columbia Statistics, Neuroscience
-  website: https://github.com
+  desc: Columbia Statistics, Neuroscience
+  website: http://www.stat.columbia.edu/~liam/
 
 - last_name: Sebastian Seung
-  desc:	     Princeton Computer Science, Neuroscience
-  website: https://github.com
+  desc: Princeton Computer Science, Neuroscience
+  website: https://seunglab.org
 
 - last_name: Il Memming Park
-  desc:	     StonyBrook Neurobiology and Behavior
-  website: https://github.com
-
-- last_name: UW Paul G. Allen School of Computer Science
-  desc:	      
-  website: https://github.com
-
-- last_name: Shanahan Foundation Postdoctoral Fellowship
-  desc:
-  website: https://github.com
+  desc: StonyBrook Neurobiology and Behavior
+  website: https://catniplab.github.io
 
 - last_name: Jalpc
   desc: This site imports the Jalpc Jekyll theme.
