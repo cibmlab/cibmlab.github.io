@@ -1,35 +1,28 @@
 # links section data
-- last_name: Hawrylycz
-  first_name: Michael
+- last_name: Michael Hawrylycz
   desc: 
   website: https://www.google.com
 
-- last_name: Smith
-  first_name: Stephen
+- last_name: Stephen Smith
   desc: 
   website: 
 
-- last_name: Shea-Brown
-  first_name: Eric
+- last_name: Eric Shea-Brown
   desc: 
   website: https://github.com
 
-- last_name: Lee
-  first_name: Su-In
+- last_name: Su-In Lee
   desc:	      
   website: https://github.com
 
-- last_name: Paul G. Allen School of Computer Science
-  first_name: UW
+- last_name: UW Paul G. Allen School of Computer Science
   desc:	      
   website: https://github.com
 
-- last_name: Postdoctoral Fellowship
-  first_name: Shanahan Foundation
+- last_name: Shanahan Foundation Postdoctoral Fellowship
   desc:
   website: https://github.com
 
 - last_name: Jalpc
-  first_name:
   desc: This site imports the Jalpc Jekyll theme.
   website: https://github.com/jarrekk/Jalpc
