@@ -6,22 +6,22 @@
   present: true
 
 - name: Rohan Gala, PhD
-  photo: static/assets/img/landing/rg.jpg
+  img: static/assets/img/landing/rg.jpg
   url: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/rohan-gala/
   present: true
 
 - name: Olga Gliko, PhD
-  photo: static/assets/img/landing/og.jpg
+  img: static/assets/img/landing/og.jpg
   url: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/olga-gliko/
   present: true
 
 - name: Yeganeh Marghi, PhD
-  photo: static/assets/img/landing/ym.jpg
+  img: static/assets/img/landing/ym.jpg
   url: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/yeganeh-marghi/
   present: true
 
 - name: Uygar Sümbül, PhD
-  photo: static/assets/img/landing/us.jpg
+  img: static/assets/img/landing/us.jpg
   url: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/uygar-sumbul/
   present: true
 

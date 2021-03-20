@@ -19,6 +19,7 @@
             <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
             {% endif %}
               <div class="team-member">
+                  <h4>
                   <a href="{{ code.url }}" target="_blank"><span class="navy">{{ code.name }}</span></a>
                   </h4>
                   <p><span data-i18n="peoples.{{ people.i18n }}">{{ people.desc }}</span></p>
