@@ -25,7 +25,3 @@
   url:
   present: true
 
-- name: JG
-  photo:
-  url:
-  present: false
