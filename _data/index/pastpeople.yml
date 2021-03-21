@@ -1,17 +1,17 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
-- name: IG
+- name: Ishani Ganguly
   photo:
-  url:
+  url: https://ctn.zuckermaninstitute.columbia.edu/people/ishani-ganguly
   desc: Summer intern, now PhD student at Columbia
 
-- name: JG
+- name: James Gornet
   photo:
-  url:
+  url: https://www.jamesgornet.com
   desc: Summer intern, now PhD student at Caltech
 
-- name: CL
+- name: Changkyu Lee
   photo:
-  url:
+  url: https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/changkyu-ck-lee/
   desc: Bioinformatician at Allen Institute
