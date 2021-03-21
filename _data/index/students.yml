@@ -1,13 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 
-- name: IC
+- name: Ian Covert
   photo:
-  url:
+  url: https://iancovert.com
   desc: PhD student at UW in Su-In Lee's lab
 
-- name: HL
+- name: Yuhan Helena Liu
   photo:
-  url:
+  url: https://amath.washington.edu/people/helena-liu
   desc: PhD student at UW in Eric Shea-Brown's lab
 
