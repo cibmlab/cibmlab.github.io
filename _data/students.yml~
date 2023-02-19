@@ -8,13 +8,12 @@
 #  education3:
 #  education4:
 
-- name: <a href="https://amath.washington.edu/people/helena-liu">Helena Liu</a>
-  info: PhD student, Shea-Brown Lab, UW
-  photo: hl.jpeg
-
-- name: <a href="https://iancovert.com/">Ian Covert</a>
-  info: PhD student, Lee Lab, UW
-  photo: hl.jpeg
+- name: Ilse Kuijf 
+  photo: rock.jpg
+  info: Master student
+  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  number_educ: 0
+  education1:
 
 - name: Tessa Van der Ent
   photo: rock.jpg
