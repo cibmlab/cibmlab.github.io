@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Our research begins with observing molecular, anatomical, or physiological recordings of brain cells. We develop methods to analyze these rich datasets and theorize about their implications. Sometimes, analysis takes a life of its own and we try to follow it fearlessly to navigate the brain jungle.
+Our research typically begins with observing molecular, anatomical, or physiological recordings of brain cells. We develop methods to analyze these rich datasets and theorize about their implications. Sometimes, analysis takes a life of its own. We try to follow it fearlessly to navigate the brain jungle.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -55,11 +55,9 @@ We are located at [Allen Institute, Seattle](https://www.alleninstitute.org), wh
 [//]: # (**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**)
 
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We wish to thank the Allen Institute founders, Paul G. Allen and Jody Allen, for their vision, encouragement and support. We are grateful for funding from the National Institutes of Health.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AI_Color_logo.png" style="width: 210px"(https://www.alleninstitute.org)>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nih2012_logo.png" style="width: 110px"(https://www.nih.gov/)>
 </figure>
