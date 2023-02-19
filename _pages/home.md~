@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Our research typically begins with observing molecular, anatomical, or physiological recordings of brain cells. We develop methods to analyze these rich datasets and theorize about their implications. Sometimes, analysis takes a life of its own. We try to follow it fearlessly to navigate the brain jungle.
+Our research typically begins with observing large scale recordings of gene expression, morphology, or physiological activity of brain cells. We develop methods to analyze these rich datasets and theorize about their implications on how the brain works. Sometimes, analysis takes a life of its own. We try to follow it fearlessly to navigate the brain jungle.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >

@@ -48,7 +48,7 @@ Our research typically begins with observing large scale recordings of gene expr
 
 Some recent themes include multi-modal data analysis, conformal representation learning, biologically plausible theories of learning, automated segmentation of neuronal morphology, cell types and neuromodulation.
 
-We are located at [Allen Institute, Seattle](https://www.alleninstitute.org), where some of the most comprehensive neuroscience datasets are produced with a "Big Science, Team Science, Open Science" approach. Exchanging ideas with such a distinguished community of researchers has been empowering. 
+We are located at the [Allen Institute](https://www.alleninstitute.org), where some of the most comprehensive neuroscience studies are conducted with a "Big Science, Team Science, Open Science" approach. Exchanging ideas with such a distinguished community of researchers has been empowering. 
 
 [//]: # (Our backgrounds are as diverse as the problems we are interested in: Electrical Engineering, Physics, Applied Mathematics, Chemistry, Computer Science.)
 
