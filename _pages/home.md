@@ -1,7 +1,7 @@
 ---
 title: "CIBM Lab - Home"
 layout: homelay
-excerpt: "Computation in Brains and Machines at Allen Institute."
+excerpt: "Computation in Brains and Machines at Allen Institute"
 sitemap: false
 permalink: /
 ---
