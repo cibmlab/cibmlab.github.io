@@ -58,7 +58,6 @@ We are located at [Allen Institute, Seattle](https://www.alleninstitute.org), wh
 We wish to thank the Allen Institute founders, Paul G. Allen and Jody Allen, for their vision, encouragement and support. We are grateful for funding from the National Institutes of Health.
 
 <figure class="fourth">
-  <a href="https://www.alleninstitute.org"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AI_Color_logo.png" style="width: 210px"></a>
-   </div>
-  <a href="https://www.nih.gov/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nih2012_logo.png" style="width: 110px"></a>
+  <a href="https://www.alleninstitute.org"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AI_Color_logo.png" style="height: 80px"></a>
+  <a href="https://www.nih.gov/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nih2012_logo.png" style="height: 80px"></a>
 </figure>
