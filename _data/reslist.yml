@@ -49,3 +49,12 @@
     description:
     url: https://github.com/iancovert/persist
     display: Repository for Covert et al., Nature Communications, 2023.
+
+- title: "Existence of dense peptidergic networks in the mammalian cortex"
+  image: peptidergicnetworks.jpg
+  authors: S Smith, R Gala
+  number_link: 1
+  link1:
+    description:
+    url: https://github.com/AllenInstitute/PeptidergicNetworks
+    display: Repository for Smith et al., eLife, 2019.

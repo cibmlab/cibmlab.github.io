@@ -39,7 +39,7 @@
   link3:
     description:
     url: https://github.com/jgornet/NeuroTorch
-    display: Repository for Gornet et al., ISBO, 2023.
+    display: Repository for Gornet et al., ISBI, 2019.
 
 - title: "Predictive and robust gene selection for spatial transcriptomics"
   image: persist.jpg
