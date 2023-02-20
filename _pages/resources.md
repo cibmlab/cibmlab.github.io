@@ -21,15 +21,12 @@ permalink: /resources/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  {{ resou.title }} <br />
-  <!-- <restit>{{ resou.title }}</restit> -->
+  <restit>{{ resou.title }}</restit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ resou.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ resou.description }}</p>
   <p><em>{{ resou.authors }}</em></p>
   <p><strong><a href="{{ resou.link.url }}">{{ resou.link.display }}</a></strong></p>
-  <p class="text-danger"><strong> {{ resou.news1 }}</strong></p>
-  <p> {{ resou.news2 }}</p>
- </div>
+   </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
