@@ -22,11 +22,47 @@ permalink: /resources/
  <div class="well">
   <h4>{{ resou.title }}</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ resou.image }}" class="img-responsive" width="60%" style="float: left" />
-  <p>{{ resou.description }}</p>
-  <!-- <p><em>{{ resou.authors }}</em></p> -->
-  <p><br><br></p>
-  <p><a href="{{ resou.link.url }}">{{ resou.link.display }}</a></p>
-   </div>
+  {% if resou.number_link == 1 %}
+  <p>{{ resou.link1.description }}</p>
+  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p>
+  {% endif %}
+  {% if resou.number_link == 2 %}
+  <p>{{ resou.link1.description }}</p>
+  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p>
+  <p>{{ resou.link2.description }}</p>
+  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p>
+  {% endif %}
+  {% if resou.number_link == 3 %}
+  <p>{{ resou.link1.description }}</p>
+  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p>
+  <p>{{ resou.link2.description }}</p>
+  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p>
+  <p>{{ resou.link3.description }}</p>
+  <p><a href="{{ resou.link3.url }}">{{ resou.link3.display }}</a></p>
+  {% endif %}
+  {% if resou.number_link == 4 %}
+  <p>{{ resou.link1.description }}</p>
+  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p>
+  <p>{{ resou.link2.description }}</p>
+  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p>
+  <p>{{ resou.link3.description }}</p>
+  <p><a href="{{ resou.link3.url }}">{{ resou.link3.display }}</a></p>
+  <p>{{ resou.link4.description }}</p>
+  <p><a href="{{ resou.link4.url }}">{{ resou.link4.display }}</a></p>
+  {% endif %}
+  {% if resou.number_link == 5 %}
+  <p>{{ resou.link1.description }}</p>
+  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p>
+  <p>{{ resou.link2.description }}</p>
+  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p>
+  <p>{{ resou.link3.description }}</p>
+  <p><a href="{{ resou.link3.url }}">{{ resou.link3.display }}</a></p>
+  <p>{{ resou.link4.description }}</p>
+  <p><a href="{{ resou.link4.url }}">{{ resou.link4.display }}</a></p>
+  <p>{{ resou.link5.description }}</p>
+  <p><a href="{{ resou.link5.url }}">{{ resou.link5.display }}</a></p>
+  {% endif %}
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
