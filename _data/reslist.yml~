@@ -1,31 +1,25 @@
-- title: "Joint representation learning with coupled autoencoders"
+- title: "Joint representation learning with coupled autoencoders and its application to multi-modal clustering of cortical interneurons"
   image: github_coupledAE.jpg
-  description: Code for the Gala et al, NeurIPS, 2019 paper.
   authors: R Gala
-  link:
+  number_link: 2
+  link1:
+    description: Code for the Gala et al, NeurIPS, 2019 paper.
     url: https://github.com/AllenInstitute/coupledAE-patchseq
     display: GitHub Repo.
-
-- title: "Application of coupled autoencoders to multi-modal clustering of cortical neurons"
-  image: codeocean_coupledAE.jpg
-  description: Code and pre-processed data for the Gala et al., Nature Computational Science, 2021 paper.
-  authors: R Gala
-  link:
+  link2:
+    description: Code and pre-processed data for the Gala et al., Nature Computational Science, 2021 paper.
     url: https://codeocean.com/capsule/6320801/tree/v1
     display: CodeOcean Repo.
 
-- title: "MDGL, learning with cell-type-specific neuromodulators"
+- title: "Learning with cell-type-specific neuromodulators"
   image: mdgl.jpg
-  description: Code for the Liu et al., PNAS, 2021 paper.
   authors: H Liu
-  link:
+  number_link: 2
+  link1:
+    description: Code for the Liu et al., PNAS, 2021 paper (MDGL).
     url: https://github.com/Helena-Yuhan-Liu/MDGL-main
     display: GitHub Repo.
-
-- title: "ModProp, learning with cell-type-specific neuromodulators"
-  image: modprop.jpg
-  description: Code for the Liu et al., NeurIPS, 2022 paper.
-  authors: H Liu
-  link:
+  link2:
+    description: Code for the Liu et al., NeurIPS, 2022 paper (ModProp).
     url: https://github.com/Helena-Yuhan-Liu/ModProp
     display: GitHub Repo.

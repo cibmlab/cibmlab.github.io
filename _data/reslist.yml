@@ -3,9 +3,9 @@
   authors: R Gala
   number_link: 2
   link1:
-    description: Code for the Gala et al, NeurIPS, 2019 paper.
+    description: 
     url: https://github.com/AllenInstitute/coupledAE-patchseq
-    display: GitHub Repo.
+    display: Repository for Gala et al, NeurIPS, 2019.
   link2:
     description: Code and pre-processed data for the Gala et al., Nature Computational Science, 2021 paper.
     url: https://codeocean.com/capsule/6320801/tree/v1
