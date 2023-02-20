@@ -4,11 +4,30 @@
     url: https://www.biorxiv.org/content/10.1101/2022.05.13.491738v2.abstract
     display: Nature Communications, 2023
 
+- title: "Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators"
+  authors: YH Liu, SJ Smith, S Mihalas, E Shea-Brown, U S\uumlmb\uumll
+  link:
+    url: https://openreview.net/pdf?id=jPx7vYUNUCt
+    display: NeurIPS, 2022
+
 - title: "Single-neuron models linking electrophysiology, morphology, and transcriptomics across cortical cell types"
   authors: A Nandi, T Chartrand, W Van Geit, A Buchin, Z Yao, SY Lee, Y Wei, B Kalmbach, B Lee, E Lein, J Berg, U S\uumlmb\uumll, C Koch, B Tasic, C Anastassiou
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2211124722009895
     display: Cell Reports, 2022
+
+- title: "Cell-type–specific neuromodulation guides synaptic credit assignment in a spiking neural network"
+  authors: YH Liu, SJ Smith, S Mihalas, E Shea-Brown, U S\uumlmb\uumll
+  link:
+    url: https://www.pnas.org/doi/full/10.1073/pnas.2111821118
+    display: PNAS, 2021
+
+- title: "Consistent cross-modal identification of cortical neurons with coupled autoencoders"
+  authors: R Gala, A Budzillo, F Baftizadeh, J Miller, N Gouwens, A Arkhipov, G Murphy, B Tasic, H Zeng, M Hawrylycz, U S\uumlmb\uumll
+  link:
+    url: https://www.nature.com/articles/s43588-021-00030-1
+    display: Nature Computational Science, 2021
+
 
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
   image: Pairs3.png
