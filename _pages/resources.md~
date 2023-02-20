@@ -21,7 +21,7 @@ permalink: /resources/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <h4>{{ resou.title }}</h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ resou.image }}" class="img-responsive" width="60%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ resou.image }}" class="img-responsive" /> <br> <!-- width="60%" style="float: left" /> -->
   {% if resou.number_link == 1 %}
   <p>{{ resou.link1.description }}</p>
   <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p>
