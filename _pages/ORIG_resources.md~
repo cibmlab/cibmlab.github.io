@@ -44,15 +44,3 @@ permalink: /resources/
 {% endif %}
 
 <p> &nbsp; </p>
-
-
-
-# Resources
-
-{% for resou in site.data.reslist %}
-
-  {{ resou.title }} <br />
-  <em>{{ resou.authors }} </em><br /><a href="{{ resou.link.url }}">{{ resou.link.display }}</a>
-
-{% endfor %}
-
