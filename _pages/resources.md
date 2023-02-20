@@ -28,39 +28,39 @@ permalink: /resources/
   {% endif %}
   {% if resou.number_link == 2 %}
   <li> {{ resou.link1.description }}
-  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p>
-  <p>{{ resou.link2.description }}</p>
-  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p><li> 
+  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p></li>
+  <li> {{ resou.link2.description }}
+  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p></li> 
   {% endif %}
   {% if resou.number_link == 3 %}
   <li> {{ resou.link1.description }}
-  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p>
-  <p>{{ resou.link2.description }}</p>
-  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p>
-  <p>{{ resou.link3.description }}</p>
-  <p><a href="{{ resou.link3.url }}">{{ resou.link3.display }}</a></p><li> 
+  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p></li>
+  <li> {{ resou.link2.description }}
+  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p></li>
+  <li> {{ resou.link3.description }}
+  <p><a href="{{ resou.link3.url }}">{{ resou.link3.display }}</a></p></li> 
   {% endif %}
   {% if resou.number_link == 4 %}
   <li> {{ resou.link1.description }}
-  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p>
-  <p>{{ resou.link2.description }}</p>
-  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p>
-  <p>{{ resou.link3.description }}</p>
-  <p><a href="{{ resou.link3.url }}">{{ resou.link3.display }}</a></p>
-  <p>{{ resou.link4.description }}</p>
-  <p><a href="{{ resou.link4.url }}">{{ resou.link4.display }}</a></p><li> 
+  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p></li>
+  <li> {{ resou.link2.description }}
+  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p></li>
+  <li> {{ resou.link3.description }}
+  <p><a href="{{ resou.link3.url }}">{{ resou.link3.display }}</a></p></li>
+  <li> {{ resou.link4.description }}
+  <p><a href="{{ resou.link4.url }}">{{ resou.link4.display }}</a></p></li> 
   {% endif %}
   {% if resou.number_link == 5 %}
   <li> {{ resou.link1.description }}
-  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p>
-  <p>{{ resou.link2.description }}</p>
-  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p>
-  <p>{{ resou.link3.description }}</p>
-  <p><a href="{{ resou.link3.url }}">{{ resou.link3.display }}</a></p>
-  <p>{{ resou.link4.description }}</p>
-  <p><a href="{{ resou.link4.url }}">{{ resou.link4.display }}</a></p>
-  <p>{{ resou.link5.description }}</p>
-  <p><a href="{{ resou.link5.url }}">{{ resou.link5.display }}</a></p><li> 
+  <p><a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a></p></li>
+  <li> {{ resou.link2.description }}
+  <p><a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a></p></li>
+  <li> {{ resou.link3.description }}
+  <p><a href="{{ resou.link3.url }}">{{ resou.link3.display }}</a></p></li>
+  <li> {{ resou.link4.description }}
+  <p><a href="{{ resou.link4.url }}">{{ resou.link4.display }}</a></p></li>
+  <li> {{ resou.link5.description }}
+  <p><a href="{{ resou.link5.url }}">{{ resou.link5.display }}</a></p></li> 
   {% endif %}
   </div>
 </div>
