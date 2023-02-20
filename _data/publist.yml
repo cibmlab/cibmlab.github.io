@@ -5,61 +5,61 @@
     display: Nature Communications, 2023
 
 - title: "Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators"
-  authors: YH Liu, SJ Smith, S Mihalas, E Shea-Brown, U S\uumlmb\uumll
+  authors: YH Liu, SJ Smith, S Mihalas, E Shea-Brown, U S&uumlmb&uumll
   link:
     url: https://openreview.net/pdf?id=jPx7vYUNUCt
     display: NeurIPS, 2022
 
 - title: "Single-neuron models linking electrophysiology, morphology, and transcriptomics across cortical cell types"
-  authors: A Nandi, T Chartrand, W Van Geit, A Buchin, Z Yao, SY Lee, Y Wei, B Kalmbach, B Lee, E Lein, J Berg, U S\uumlmb\uumll, C Koch, B Tasic, C Anastassiou
+  authors: A Nandi, T Chartrand, W Van Geit, A Buchin, Z Yao, SY Lee, Y Wei, B Kalmbach, B Lee, E Lein, J Berg, U S&uumlmb&uumll, C Koch, B Tasic, C Anastassiou
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2211124722009895
     display: Cell Reports, 2022
 
 - title: "Cell-type–specific neuromodulation guides synaptic credit assignment in a spiking neural network"
-  authors: YH Liu, SJ Smith, S Mihalas, E Shea-Brown, U S\uumlmb\uumll
+  authors: YH Liu, SJ Smith, S Mihalas, E Shea-Brown, U S&uumlmb&uumll
   link:
     url: https://www.pnas.org/doi/full/10.1073/pnas.2111821118
     display: PNAS, 2021
 
 - title: "Consistent cross-modal identification of cortical neurons with coupled autoencoders"
-  authors: R Gala, A Budzillo, F Baftizadeh, J Miller, N Gouwens, A Arkhipov, G Murphy, B Tasic, H Zeng, M Hawrylycz, U S\uumlmb\uumll
+  authors: R Gala, A Budzillo, F Baftizadeh, J Miller, N Gouwens, A Arkhipov, G Murphy, B Tasic, H Zeng, M Hawrylycz, U S&uumlmb&uumll
   link:
     url: https://www.nature.com/articles/s43588-021-00030-1
     display: Nature Computational Science, 2021
 
 - title: "Integrated morphoelectric and transcriptomic classification of cortical GABAergic cells"
-  authors: NW Gouwens*, SA Sorensen*, F Baftizadeh, A Budzillo, BR Lee, T Jarsky, L Alfiler, K Baker, E Barkan, K Berry, D Bertagnolli, K Bickley, J Bomben, T Braun, K Brouner, T Casper, K Crichton, TL Daigle, R Dalley, RA de Frates, N Dee, T Desta, SD Lee, N Dotson, T Egdorf, L Ellingwood, R Enstrom, L Esposito, C Farrell, D Feng, O Fong, R Gala, C Gamlin, A Gary, A Glandon, J Goldy, M Gorham, L Graybuck, H Gu, K Hadley, MJ Hawrylycz, AM Henry, D Hill, M Hupp, S Kebede, TK Kim, L Kim, M Kroll, C Lee, KE Link, M Mallory, R Mann, M Maxwell, M McGraw, D McMillen, A Mukora, L Ng, L Ng, K Ngo, PR Nicovich, A Oldre, D Park, H Peng, O Penn, T Pham, A Pom, Z Popovic, L Potekhina, R Rajanbabu, S Ransford, D Reid, C Rimorin, M Robertson, K Ronellenfitch, A Ruiz, D Sandman, K Smith, J Sulc, SM Sunkin, A Szafer, M Tieu, A Torkelson, J Trinh, H Tung, W Wakeman, K Ward, G Williams, Z Zhou, JT Ting, A Arkhipov, U S\uumlmb\uumll, ES Lein, C Koch, Z Yao, B Tasic, J Berg, GJ Murphy, H Zeng
+  authors: NW Gouwens*, SA Sorensen*, F Baftizadeh, A Budzillo, BR Lee, T Jarsky, L Alfiler, K Baker, E Barkan, K Berry, D Bertagnolli, K Bickley, J Bomben, T Braun, K Brouner, T Casper, K Crichton, TL Daigle, R Dalley, RA de Frates, N Dee, T Desta, SD Lee, N Dotson, T Egdorf, L Ellingwood, R Enstrom, L Esposito, C Farrell, D Feng, O Fong, R Gala, C Gamlin, A Gary, A Glandon, J Goldy, M Gorham, L Graybuck, H Gu, K Hadley, MJ Hawrylycz, AM Henry, D Hill, M Hupp, S Kebede, TK Kim, L Kim, M Kroll, C Lee, KE Link, M Mallory, R Mann, M Maxwell, M McGraw, D McMillen, A Mukora, L Ng, L Ng, K Ngo, PR Nicovich, A Oldre, D Park, H Peng, O Penn, T Pham, A Pom, Z Popovic, L Potekhina, R Rajanbabu, S Ransford, D Reid, C Rimorin, M Robertson, K Ronellenfitch, A Ruiz, D Sandman, K Smith, J Sulc, SM Sunkin, A Szafer, M Tieu, A Torkelson, J Trinh, H Tung, W Wakeman, K Ward, G Williams, Z Zhou, JT Ting, A Arkhipov, U S&uumlmb&uumll, ES Lein, C Koch, Z Yao, B Tasic, J Berg, GJ Murphy, H Zeng
   link: 
     url: https://www.sciencedirect.com/science/article/pii/S009286742031254X
     display: Cell, 2020
 
 - title: "New Light on Cortical Neuropeptides and Synaptic Network Plasticity"
-  authors: SJ Smith, M Hawrylycz, J Rossier, U S\uumlmb\uumll
+  authors: SJ Smith, M Hawrylycz, J Rossier, U S&uumlmb&uumll
   link:	   
     url: https://www.sciencedirect.com/science/article/pii/S0959438820300817
     display: Current Opinion in Neurobiology, 2020
 
 - title: "Whole-Neuron Synaptic Mapping Reveals Spatially Precise Excitatory/Inhibitory Balance Limiting Dendritic and Somatic Spiking"
-  authors: DM Iascone,  Y Li,  U S\uumlmb\uumll,  M Doron, H Chen, V Andreu, F Goudy, I Segev, H Peng, F Polleux
+  authors: DM Iascone,  Y Li,  U S&uumlmb&uumll,  M Doron, H Chen, V Andreu, F Goudy, I Segev, H Peng, F Polleux
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0896627320301380
     display: Neuron, 2020
 
 - title: "A coupled autoencoder approach for multi-modal analysis of cell types"
-  authors: R Gala, N Gouwens, Z Yao, A Budzillo, O Penn, B Tasic, G Murphy, H Zeng, U S\uumlmb\uumll
+  authors: R Gala, N Gouwens, Z Yao, A Budzillo, O Penn, B Tasic, G Murphy, H Zeng, U S&uumlmb&uumll
   link:
     url: https://proceedings.neurips.cc/paper/2019/file/30d4e6422cd65c7913bc9ce62e078b79-Paper.pdf
     display: NeurIPS, 2019
 
 - title: "Single-cell transcriptomic evidence for dense intracortical neuropeptide networks"
-  authors: SJ Smith, U S\uumlmb\uumll, LT Graybuck, F Collman, S Seshamani, R Gala, O Gliko, L Elabbady, J Miller, T Bakken, J Rossier, Z Yao, E Lein, H Zeng, B Tasic, M Hawrylycz
+  authors: SJ Smith, U S&uumlmb&uumll, LT Graybuck, F Collman, S Seshamani, R Gala, O Gliko, L Elabbady, J Miller, T Bakken, J Rossier, Z Yao, E Lein, H Zeng, B Tasic, M Hawrylycz
   link:
     url: https://elifesciences.org/articles/47889
     display: eLife, 2019
 
 - title: "Reconstructing neuronal anatomy from whole-brain images"
-  authors: J Gornet, KU Venkataraju, A Narasimhan, K Lee, N Turner, HS Seung, P Osten, U S\uumlmb\uumll
+  authors: J Gornet, KU Venkataraju, A Narasimhan, K Lee, N Turner, HS Seung, P Osten, U S&uumlmb&uumll
   link:
     url: https://arxiv.org/pdf/1903.07027.pdf
     display: ISBI, 2019
