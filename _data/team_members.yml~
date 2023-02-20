@@ -1,18 +1,36 @@
 - name: <a href="https://alleninstitute.org/person/fahimeh-baftizadeh/">Fahimeh Baftizadeh</a>
   photo: fb.jpeg
+  number_educ: 2
+  education1: PhD in Physics & Chemistry of Biological Systems at SISSA, Italy
+  education2: Postdoc at MIT
 
 - name: <a href="https://alleninstitute.org/person/rohan-gala/">Rohan Gala</a>
   photo: rg.jpeg
+  number_educ: 1
+  education1: PhD in Physics at Northeastern University
 
 - name: <a href="https://alleninstitute.org/person/olga-gliko/">Olga Gliko</a>
   photo: og.jpeg
+  number_educ: 2
+  education1: PhD in Physics at Moscow State University, Russia
+  education2: Postdoc at University of Houston and Baylor College of Medicine
+
+- name: <a href="https://alleninstitute.org/person/rohan-gala/">Anna Grim</a>
+  photo: ag.jpg
+  number_educ: 1
+  education1: PhD in Applied Mathematics at Brown University
 
 - name: <a href="https://alleninstitute.org/person/yeganeh-marghi/">Yeganeh Marghi</a>
   photo: ym.jpeg
+  number_educ: 1
+  education1: PhD in Electrical Engineering at Northeastern University
 
 - name: <a href="https://alleninstitute.org/person/uygar-sumbul/">Uygar S&uuml;mb&uuml;l
   photo: us.jpeg
   info: <a href="https://scholar.google.com/citations?user=dhiRjJIAAAAJ&hl=en&oi=ao">Google Scholar Profile
+  number_educ: 2
+  education1: PhD in Electrical Engineering and Mathematics at Stanford University
+  education2: Postdoc at MIT and Columbia University
 
 
 
