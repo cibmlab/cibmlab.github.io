@@ -1,0 +1,15 @@
+- title: "Joint representation learning with coupled autoencoders"
+  image: github_coupledAE.jpg
+  description: Code for the Gala et al, NeurIPS, 2019 paper.
+  authors: R Gala
+  link:
+    url: https://github.com/AllenInstitute/coupledAE-patchseq
+    display: Github Repo.
+
+- title: "Application of coupled autoencoders to multi-modal clustering of cortical neurons"
+  image: codeocean_coupledAE.jpg
+  description: Code and pre-processed data for the Gala et al., Nature Computational Science, 2021 paper.
+  authors: R Gala
+  link:
+    url: https://codeocean.com/capsule/6320801/tree/v1
+    display: CodeOcean Repo.

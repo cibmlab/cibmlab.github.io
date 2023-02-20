@@ -1,0 +1,48 @@
+---
+title: "CIBM Lab - Resources"
+layout: gridlay
+excerpt: "CIBM Lab -- Resources"
+sitemap: false
+permalink: /resources/
+---
+
+
+# Resources
+
+{% assign number_printed = 0 %}
+{% for resou in site.data.reslist %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if resou.highlight == 1 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <restit>{{ resou.title }}</restit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ resou.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ resou.description }}</p>
+  <p><em>{{ resou.authors }}</em></p>
+  <p><strong><a href="{{ resou.link.url }}">{{ resou.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ resou.news1 }}</strong></p>
+  <p> {{ resou.news2 }}</p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
