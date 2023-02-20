@@ -4,7 +4,7 @@
   authors: R Gala
   link:
     url: https://github.com/AllenInstitute/coupledAE-patchseq
-    display: Github Repo.
+    display: GitHub Repo.
 
 - title: "Application of coupled autoencoders to multi-modal clustering of cortical neurons"
   image: codeocean_coupledAE.jpg
@@ -13,3 +13,19 @@
   link:
     url: https://codeocean.com/capsule/6320801/tree/v1
     display: CodeOcean Repo.
+
+- title: "MDGL, learning with cell-type-specific neuromodulators"
+  image: mdgl.jpg
+  description: Code for the Liu et al., PNAS, 2021 paper.
+  authors: H Liu
+  link:
+    url: https://github.com/Helena-Yuhan-Liu/MDGL-main
+    display: GitHub Repo.
+
+- title: "ModProp, learning with cell-type-specific neuromodulators"
+  image: modprop.jpg
+  description: Code for the Liu et al., NeurIPS, 2022 paper.
+  authors: H Liu
+  link:
+    url: https://github.com/Helena-Yuhan-Liu/ModProp
+    display: GitHub Repo.
