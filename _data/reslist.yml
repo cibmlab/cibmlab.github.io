@@ -36,3 +36,12 @@
     description:
     url: https://github.com/rhngla/topo-preserve-fastmarching
     display: Repository for the topology preserving fast marching algorithm used in Gliko et al., biorxiv, 2022.
+
+- title: "Predictive and robust gene selection for spatial transcriptomics"
+  image: persist.jpg
+  authors: I Covert
+  number_link: 1
+  link1:
+    description:
+    url: https://github.com/iancovert/persist
+    display: Repository for Covert et al., Nature Communications, 2023.

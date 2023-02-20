@@ -11,7 +11,7 @@
     url: https://codeocean.com/capsule/6320801/tree/v1
     display: Repository + Cloud env. for Gala et al., Nature Computational Science, 2021.
 
-- title: "Learning with cell-type-specific neuromodulators"
+- title: "Learning with cell-type-specific modulatory signaling"
   image: mdgl.jpg
   authors: H Liu
   number_link: 2
@@ -23,3 +23,16 @@
     description: 
     url: https://github.com/Helena-Yuhan-Liu/ModProp
     display: Repository for Liu et al., NeurIPS, 2022 (ModProp).
+
+- title: "Automated segmentation of neuronal morphology from sparse light microscopy images"
+  image: autorecon_ivscc.jpg
+  authors: O Gliko, R Gala
+  number_link: 2
+  link1:
+    description:
+    url: https://github.com/ogliko/patchseq-autorecon
+    display: Repository for Gliko et al., biorxiv, 2022.
+  link2:
+    description:
+    url: https://github.com/rhngla/topo-preserve-fastmarching
+    display: Repository for the topology preserving fast marching algorithm used in Gliko et al., biorxiv, 2022.
