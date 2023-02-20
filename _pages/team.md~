@@ -11,7 +11,7 @@ permalink: /team/
 [//]: # ( **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**)
 
 
-Jump to [staff](#staff), [student collaborators](#student-collaborators), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [student collaborators](#student-collaborators), [alumni](#alumni), [visitors](#visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -165,7 +165,7 @@ Jump to [staff](#staff), [student collaborators](#student-collaborators), [alumn
 </div>
 {% endif %}
 
-## Former visitors
+## Visitors
 <div class="row">
 
 <div class="col-sm-4 clearfix">
