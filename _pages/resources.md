@@ -27,10 +27,8 @@ permalink: /resources/
   <p>{{ resou.link1.description }}</p></li>
   {% endif %}
   {% if resou.number_link == 2 %}
-  <li> <a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a>
-  <p>{{ resou.link1.description }}</p></li>
-  <li> <a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a>
-  <p>{{ resou.link2.description }}</p></li> 
+  <li> <a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a> <br> {{ resou.link1.description }}</li>
+  <li> <a href="{{ resou.link2.url }}">{{ resou.link2.display }}</a> <br> {{ resou.link2.description }}</li> 
   {% endif %}
   {% if resou.number_link == 3 %}
   <li> <a href="{{ resou.link1.url }}">{{ resou.link1.display }}</a>
