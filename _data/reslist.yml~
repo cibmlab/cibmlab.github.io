@@ -26,8 +26,8 @@
 
 - title: "Automated segmentation of neuronal morphology from sparse light microscopy images"
   image: autorecon_ivscc.jpg
-  authors: O Gliko, R Gala
-  number_link: 2
+  authors: O Gliko, R Gala, J Gornet
+  number_link: 3
   link1:
     description:
     url: https://github.com/ogliko/patchseq-autorecon
@@ -36,3 +36,16 @@
     description:
     url: https://github.com/rhngla/topo-preserve-fastmarching
     display: Repository for the topology preserving fast marching algorithm used in Gliko et al., biorxiv, 2022.
+  link3:
+    description:
+    url: https://github.com/jgornet/NeuroTorch
+    display: Repository for Gornet et al., ISBO, 2023.
+
+- title: "Predictive and robust gene selection for spatial transcriptomics"
+  image: persist.jpg
+  authors: I Covert
+  number_link: 1
+  link1:
+    description:
+    url: https://github.com/iancovert/persist
+    display: Repository for Covert et al., Nature Communications, 2023.
