@@ -22,7 +22,7 @@ permalink: /resources/
  <div class="well">
   <h4>{{ resou.title }}</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ resou.image }}" class="img-responsive" width="60%" style="float: left" />
-  <p>{{ resou.description }}</p>
+  <blockquote><p>{{ resou.description }}</p><\blockquote>
   <!-- <p><em>{{ resou.authors }}</em></p> -->
   <p><a href="{{ resou.link.url }}">{{ resou.link.display }}</a></p>
    </div>
