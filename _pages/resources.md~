@@ -9,9 +9,36 @@ permalink: /resources/
 
 # Resources
 
+{% assign number_printed = 0 %}
 {% for resou in site.data.reslist %}
 
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
   {{ resou.title }} <br />
-  <em>{{ resou.authors }} </em><br /><a href="{{ resou.link.url }}">{{ resou.link.display }}</a>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ resou.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ resou.description }}</p>
+  <p><em>{{ resou.authors }}</em></p>
+  <p><strong><a href="{{ resou.link.url }}">{{ resou.link.display }}</a></strong></p>
+   </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
