@@ -20,7 +20,8 @@ permalink: /resources/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <h4>{{ resou.title }}</h4>
+     <h4>{{ member.name }}</h4>
+  <p><h4>{{ publi.title }}</h4></p>
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/{{ resou.image }}" class="img-responsive" width="60%" style="float: left" />
   <p>{{ resou.description }}</p>
   <p><em>{{ resou.authors }}</em></p>
