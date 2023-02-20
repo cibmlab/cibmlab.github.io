@@ -7,19 +7,19 @@
     url: https://github.com/AllenInstitute/coupledAE-patchseq
     display: Repository for Gala et al, NeurIPS, 2019.
   link2:
-    description: Code and pre-processed data for the Gala et al., Nature Computational Science, 2021 paper.
+    description: 
     url: https://codeocean.com/capsule/6320801/tree/v1
-    display: CodeOcean Repo.
+    display: Repository + Cloud env. for Gala et al., Nature Computational Science, 2021.
 
 - title: "Learning with cell-type-specific neuromodulators"
   image: mdgl.jpg
   authors: H Liu
   number_link: 2
   link1:
-    description: Code for the Liu et al., PNAS, 2021 paper (MDGL).
+    description: 
     url: https://github.com/Helena-Yuhan-Liu/MDGL-main
-    display: GitHub Repo.
+    display: Repository for Liu et al., PNAS, 2021 (MDGL).
   link2:
-    description: Code for the Liu et al., NeurIPS, 2022 paper (ModProp).
+    description: 
     url: https://github.com/Helena-Yuhan-Liu/ModProp
-    display: GitHub Repo.
+    display: Repository for Liu et al., NeurIPS, 2022 (ModProp).
