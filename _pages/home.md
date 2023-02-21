@@ -30,7 +30,7 @@ Our research typically begins with observing large scale recordings of gene expr
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cibmlabweb1.jpeg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cibmlabweb2.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cibmlabweb2.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cibmlabweb3.jpeg" alt="Slide 4" />
