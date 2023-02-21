@@ -48,16 +48,13 @@ Our research typically begins with observing large scale recordings of gene expr
 
 Some recent themes include multi-modal data analysis, conformal representation learning, biologically plausible theories of learning, automated segmentation of neuronal morphology, cell types and neuromodulation.
 
-We are located at the [Allen Institute](https://www.alleninstitute.org), where some of the most comprehensive neuroscience studies are conducted with a "Big Science, Team Science, Open Science" approach.
+We are located at the [Allen Institute](https://www.alleninstitute.org), where some of the most comprehensive neuroscience studies are conducted with a "Big Science, Team Science, Open Science" approach. We wish to thank the Allen Institute founders, Paul G. Allen and Jody Allen, for their vision, encouragement and support. We are grateful for funding from the National Institutes of Health.
 
 [//]: # (Exchanging ideas with such a distinguished community of researchers has been empowering.)
 
 [//]: # (Our backgrounds are as diverse as the problems we are interested in: Electrical Engineering, Physics, Applied Mathematics, Chemistry, Computer Science.)
 
 [//]: # (**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**)
-
-
-We wish to thank the Allen Institute founders, Paul G. Allen and Jody Allen, for their vision, encouragement and support. We are grateful for funding from the National Institutes of Health.
 
 <figure class="fourth">
   <a href="https://www.alleninstitute.org"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/AI_Color_logo.png" style="height: 80px"></a>
