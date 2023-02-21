@@ -1,3 +1,16 @@
+- title: "Learning with cell-type-specific modulatory signaling"
+  image: mdgl.jpg
+  authors: H Liu
+  number_link: 2
+  link1:
+    description:
+    url: https://github.com/Helena-Yuhan-Liu/MDGL-main
+    display: Repository for Liu et al., PNAS, 2021 (MDGL).
+  link2:
+    description:
+    url: https://github.com/Helena-Yuhan-Liu/ModProp
+    display: Repository for Liu et al., NeurIPS, 2022 (ModProp).
+
 - title: "Joint representation learning with coupled autoencoders and its application to multi-modal clustering of cortical interneurons"
   image: github_coupledAE.jpg
   authors: R Gala
@@ -10,19 +23,6 @@
     description: 
     url: https://codeocean.com/capsule/6320801/tree/v1
     display: Repository + Cloud env. for Gala et al., Nature Computational Science, 2021.
-
-- title: "Learning with cell-type-specific modulatory signaling"
-  image: mdgl.jpg
-  authors: H Liu
-  number_link: 2
-  link1:
-    description: 
-    url: https://github.com/Helena-Yuhan-Liu/MDGL-main
-    display: Repository for Liu et al., PNAS, 2021 (MDGL).
-  link2:
-    description: 
-    url: https://github.com/Helena-Yuhan-Liu/ModProp
-    display: Repository for Liu et al., NeurIPS, 2022 (ModProp).
 
 - title: "Automated segmentation of neuronal morphology from sparse light microscopy images"
   image: autorecon_ivscc.jpg
