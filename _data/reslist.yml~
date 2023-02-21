@@ -67,3 +67,16 @@
     description:
     url: https://github.com/uygarsumbul/spines
     display: Repository for Iascone et al., Neuron, 2020.
+
+- title: "Arbor density analysis for retinal ganglion cells"
+  image: arbordensity.jpg
+  authors: U S&uuml;mb&uuml;l
+  number_link: 2
+  link1:
+    description:
+    url: https://github.com/uygarsumbul/rgc
+    display: Repository for the older paper S&uuml;mb&uuml;l et al., Nature Communications, 2014.
+  link2:
+    description:
+    url: https://github.com/uygarsumbul/volumetricRGC
+    display: Repository for the older paper S&uuml;mb&uuml;l et al., Frontiers in Neuroanatomy, 2014.
