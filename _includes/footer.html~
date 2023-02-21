@@ -20,7 +20,7 @@
 		</div>
 		<div class="col-sm-4">
 		  Contact:<br />
-		  uygars AT alleninstitute<br />
+		    <img src="{{ site.url }}{{ site.baseurl }}/images/contact.jpg" style="height: 20px"><br />
 		  615 Westlake Ave N<br />
 		  Seattle, WA, 98109, U.S.A. <br />
             <!-- (<a href="https://goo.gl/maps/H2RjutkyoUH2">Maps</a>, <a href="http://www.physics.leidenuniv.nl/travel-directions">Directions</a>) -->
