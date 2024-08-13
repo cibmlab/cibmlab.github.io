@@ -1,7 +1,13 @@
-- name: <a href="https://alleninstitute.org/person/ian-convy//">Ian Convy</a>
+- name: <a href="https://alleninstitute.org/person/ian-convy/">Ian Convy</a>
   photo: ico.jpg
   number_educ: 1
   education1: PhD in Chemistry, UC Berkeley
+
+- name: <a href="https://alleninstitute.org/person/sven-dorkenwald/">Sven Dorkenwald</a>
+  info: Shanahan Fellow
+  photo: sd.jpeg
+  number_educ: 1
+  education1: PhD in Computer Science and Neuroscience, Princeton University
 
 - name: <a href="https://alleninstitute.org/person/rohan-gala/">Rohan Gala</a>
   photo: rg.jpeg
@@ -11,25 +17,38 @@
 - name: <a href="https://alleninstitute.org/person/olga-gliko/">Olga Gliko</a>
   photo: og.jpeg
   number_educ: 2
-  education1: PhD in Physics at Moscow State University, Russia
-  education2: Postdoc at University of Houston and Baylor College of Medicine
+  education1: PhD in Physics, Moscow State University, Russia
+  education2: Postdoc, University of Houston and Baylor College of Medicine
 
 - name: <a href="https://www.annamgrim.com">Anna Grim</a>
   photo: ag.jpg
   number_educ: 1
-  education1: PhD in Applied Mathematics at Brown University
+  education1: PhD in Applied Mathematics, Brown University
 
 - name: <a href="https://alleninstitute.org/person/yeganeh-marghi/">Yeganeh Marghi</a>
   photo: ym.jpeg
   number_educ: 1
-  education1: PhD in Electrical Engineering at Northeastern University
+  education1: PhD in Electrical Engineering, Northeastern University
+
+- name: <a href="https://alleninstitute.org/person/iris-stone/">Iris Stone</a>
+  info: Shanahan Fellow
+  photo: is.jpg
+  number_educ: 2
+  education1: PhD in Quantitative and Computational Neuroscience, Princeton University
+  education2: Graduate certificate in Statistics and Machine Learning, Princeton University
 
 - name: <a href="https://alleninstitute.org/person/uygar-sumbul/">Uygar S&uuml;mb&uuml;l
   photo: us.jpeg
   info: <a href="https://scholar.google.com/citations?user=dhiRjJIAAAAJ&hl=en&oi=ao">Google Scholar Profile
   number_educ: 2
-  education1: PhD in Electrical Engineering and Mathematics at Stanford University
-  education2: Postdoc at MIT and Columbia University
+  education1: PhD in Electrical Engineering and Mathematics, Stanford University
+  education2: Postdoc, MIT and Columbia University
+
+- name: <a href="https://alleninstitute.org/person/yiliu-wang/">Yiliu Wang</a>                
+  info: Shanahan Fellow
+  photo: yw.jpg
+  number_educ: 1
+  education1: PhD in Statistics, London School of Economics (LSE)
 
 #- name: <a href="https://alleninstitute.org/person/fahimeh-baftizadeh/">Fahimeh Baftizadeh</a>
 #  photo: fb.jpeg
