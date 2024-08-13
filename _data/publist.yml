@@ -1,3 +1,15 @@
+- title: "Joint inference of discrete cell types and continuous type-specific variability in single-cell datasets with MMIDAS"
+  authors: Y Marghi, R Gala, F Baftizadeh, U S&uuml;mb&uuml;l;
+  link:
+    url:
+    display: Nature Computational Science, 2024 (to appear)
+
+- title: "High-throughput analysis of dendrite and axonal arbors reveals transcriptomic correlates of neuroanatomy"
+  authors: O Gliko, M Mallory, R Dalley, R Gala, J Gornet, H Zeng, SA Sorensen, U S&uuml;mb&uuml;l;
+  link: 
+    url: https://www.nature.com/articles/s41467-024-50728-9
+    display: Nature Communications, 2024
+
 - title: "Learning Time-Invariant Representations for Individual Neurons from Population Dynamics"
   authors: L Mi*, T Le*, T He, E Shlizerman, U S&uuml;mb&uuml;l;
   link:
@@ -13,7 +25,7 @@
 - title: "Biologically-plausible backpropagation through arbitrary timespans via local neuromodulators"
   authors: YH Liu, SJ Smith, S Mihalas, E Shea-Brown, U S&uuml;mb&uuml;l
   link:
-    url: https://openreview.net/pdf?id=jPx7vYUNUCt
+    url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/6fca3ed3c54ffeae947ae668a0841ab2-Abstract-Conference.html
     display: NeurIPS, 2022
 
 - title: "Single-neuron models linking electrophysiology, morphology, and transcriptomics across cortical cell types"
