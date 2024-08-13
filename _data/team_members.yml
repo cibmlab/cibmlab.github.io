@@ -1,8 +1,7 @@
-- name: <a href="https://alleninstitute.org/person/fahimeh-baftizadeh/">Fahimeh Baftizadeh</a>
-  photo: fb.jpeg
-  number_educ: 2
-  education1: PhD in Physics & Chemistry of Biological Systems at SISSA, Italy
-  education2: Postdoc at MIT
+- name: <a href="https://alleninstitute.org/person/ian-convy//">Ian Convy</a>
+  photo: ico.jpg
+  number_educ: 1
+  education1: PhD in Chemistry, UC Berkeley
 
 - name: <a href="https://alleninstitute.org/person/rohan-gala/">Rohan Gala</a>
   photo: rg.jpeg

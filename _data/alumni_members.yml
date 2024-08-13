@@ -1,15 +1,31 @@
-- name: James Gornet
-  duration: Summer intern, 2018
-  info: <a href="https://www.jamesgornet.com">PhD student at Caltech</a>
+- name: Lu Mi
+  duration: Shanahan Fellow, 2022-2024
+  info: <a href="https://lumimim.github.io">Assistant Professor, Georgia Tech</a>
+
+- name: Helena Liu
+  duration: PhD student (Shea-Brown Lab), 2020-2024
+  info: <a href="https://github.com/Helena-Yuhan-Liu">Postdoc, Princeton</a>
+
+- name: Ian Covert
+  duration: PhD student (Lee Lab), 2019-2023
+  info: <a href="https://iancovert.com">Postdoc, Stanford</a>
+
+- name: Fahimeh Baftizadeh
+  duration: Scientist, 2020-2023
+  info: <a href="https://www.linkedin.com/in/fbafti/">-</a>
 
 - name: Ishani Ganguly
   duration: Summer intern, 2019
-  info: <a href="https://ctn.zuckermaninstitute.columbia.edu/people/ishani-ganguly">PhD student at Columbia University</a>
+  info: <a href="https://ctn.zuckermaninstitute.columbia.edu/people/ishani-ganguly">PhD student, Columbia University</a>
+
+- name: James Gornet
+  duration: Summer intern, 2018
+  info: <a href="https://www.jamesgornet.com">PhD student, Caltech</a>
 
 - name: Changkyu Lee
-  info: Bioinformatician at Allen Institute
+  info: Bioinformatician, Allen Institute
   duration: Bioinformatician, 2018-2020
 
-- name: Lucas Magee
-  info: PhD student at UCSD
-  duration: Visiting student researcher, October 2022
+#- name: Lucas Magee
+#  info: PhD student at UCSD
+#  duration: Visiting student researcher, October 2022

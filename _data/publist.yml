@@ -1,17 +1,17 @@
 - title: "Joint inference of discrete cell types and continuous type-specific variability in single-cell datasets with MMIDAS"
-  authors: Y Marghi, R Gala, F Baftizadeh, U S&uuml;mb&uuml;l;
+  authors: Y Marghi, R Gala, F Baftizadeh, U S&uuml;mb&uuml;l
   link:
     url:
     display: Nature Computational Science, 2024 (to appear)
 
 - title: "High-throughput analysis of dendrite and axonal arbors reveals transcriptomic correlates of neuroanatomy"
-  authors: O Gliko, M Mallory, R Dalley, R Gala, J Gornet, H Zeng, SA Sorensen, U S&uuml;mb&uuml;l;
+  authors: O Gliko, M Mallory, R Dalley, R Gala, J Gornet, H Zeng, SA Sorensen, U S&uuml;mb&uuml;l
   link: 
     url: https://www.nature.com/articles/s41467-024-50728-9
     display: Nature Communications, 2024
 
 - title: "Learning Time-Invariant Representations for Individual Neurons from Population Dynamics"
-  authors: L Mi*, T Le*, T He, E Shlizerman, U S&uuml;mb&uuml;l;
+  authors: L Mi*, T Le*, T He, E Shlizerman, U S&uuml;mb&uuml;l
   link:
     url: https://proceedings.neurips.cc/paper_files/paper/2023/file/9032e5c9ec394ce768a2fa9bdc56af6c-Paper-Conference.pdf
     display: NeurIPS, 2023
