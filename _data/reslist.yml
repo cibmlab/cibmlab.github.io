@@ -93,7 +93,7 @@
   link1:
     description:
     url: https://github.com/uygarsumbul/brainbowSegmentation
-    display: [old] Repository for S&uuml;mb&uuml;l et al., NeurIPS, 2016.
+    display: Repository for S&uuml;mb&uuml;l et al., NeurIPS, 2016.
 
 - title: "Arbor density analysis for retinal ganglion cells"
   image: arbordensity.jpg
@@ -102,8 +102,8 @@
   link1:
     description:
     url: https://github.com/uygarsumbul/rgc
-    display: [old] Repository for S&uuml;mb&uuml;l et al., Nature Communications, 2014.
+    display: Repository for S&uuml;mb&uuml;l et al., Nature Communications, 2014.
   link2:
     description:
     url: https://github.com/uygarsumbul/volumetricRGC
-    display: [old] Repository for S&uuml;mb&uuml;l et al., Frontiers in Neuroanatomy, 2014.
+    display: Repository for S&uuml;mb&uuml;l et al., Frontiers in Neuroanatomy, 2014.
