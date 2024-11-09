@@ -1,3 +1,9 @@
+- name: <a href="https://www.allenneuraldynamics.org/people/shuonan-chen">Shuonan Chen</a>
+  info: Isogai group
+  photo: snc.jpg
+  number_educ: 1
+  education1: PhD in Systems Biology, Columbia University
+
 - name: <a href="https://alleninstitute.org/person/ian-convy/">Ian Convy</a>
   photo: ico.jpg
   number_educ: 1
@@ -21,6 +27,7 @@
   education2: Postdoc, University of Houston and Baylor College of Medicine
 
 - name: <a href="https://www.annamgrim.com">Anna Grim</a>
+  info: Chandrashekar group
   photo: ag.jpg
   number_educ: 1
   education1: PhD in Applied Mathematics, Brown University
