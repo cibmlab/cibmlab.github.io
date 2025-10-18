@@ -50,7 +50,6 @@ Our research typically begins with studying large scale recordings of gene expre
 </div>
 
 Recent themes include multi-modal data analysis, theory of synaptic credit assignment, segmentation of neuronal morphology, dynamical models of population activity.
-# Some recent themes include multi-modal data analysis, biologically plausible theories of learning, automated segmentation of neuronal morphology, cell types and neuromodulation.
 
 We are located at the [Allen Institute](https://www.alleninstitute.org), where some of the most comprehensive neuroscience studies are conducted with a "Big Science, Team Science, Open Science" approach. We wish to thank the Allen Institute founders, Paul G. Allen and Jody Allen, for their vision, encouragement and support. We are grateful for funding from the National Institutes of Health.
 
