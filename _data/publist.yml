@@ -1,3 +1,33 @@
+- title: "Evidence from spatial transcriptomics for the mosaic hypothesis and pure cell types in the cortex"
+  authors: Y Wang, C Koch, U S&uuml;mb&uuml;l
+  link:
+    url: https://www.cell.com/cell-reports/fulltext/S2211-1247(25)01134-9
+    display: Cell Reports, 2025
+
+- title: "Efficient Connectivity-Preserving Instance Segmentation with Supervoxel-Based Loss Function"
+  authors: A Grim, J Chandrashekar, U S&uuml;mb&uuml;l
+  link:
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/32326
+    display: AAAI, 2025
+
+- title: "SPINT: Spatial Permutation-Invariant Neural Transformer for Consistent Intracortical Motor Decoding"
+  authors: T Le, H Fang, J Li, T Nguyen, L Mi, A Orsborn, U S&uuml;mb&uuml;l, E Shlizerman
+  link:
+    url: https://arxiv.org/pdf/2507.08402
+    display: NeurIPS, 2025
+
+- title: "Layer-specific input to medial prefrontal cortex is linked to stress susceptibility"
+  authors: ST Solakoglu, SE Erdener, O Gliko, A Can, U S&uuml;mb&uuml;l, E Eren-Kocak
+  link:
+    url: https://www.nature.com/articles/s41398-025-03258-x
+    display: Translational Psychiatry, 2025
+
+- title: "NetFormer: An interpretable model for recovering dynamical connectivity in neuronal population dynamics"
+  authors: Z Lu, W Zhang, T Le, H Wang, U S&uuml;mb&uuml;l, E Shea-Brown, L Mi
+  link:
+    url: https://openreview.net/pdf?id=bcTjW5kS4W
+    display: ICLR, 2025
+
 - title: "Joint inference of discrete cell types and continuous type-specific variability in single-cell datasets with MMIDAS"
   authors: Y Marghi, R Gala, F Baftizadeh, U S&uuml;mb&uuml;l
   link:
