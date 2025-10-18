@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Our research typically begins with observing large scale recordings of gene expression, morphology, or physiological activity of brain cells. We develop methods to analyze these rich datasets and theorize about their implications on how the brain works. Sometimes, analysis takes on a life of its own. We try to follow it fearlessly to navigate the brain jungle.
+Our research typically begins with studying large scale recordings of gene expression, morphology, or physiological activity of brain cells. We develop methods to analyze these rich datasets and theorize about their implications on how the brain works. Sometimes, analysis takes on a life of its own. We try to follow it fearlessly to navigate the brain jungle.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -49,7 +49,8 @@ Our research typically begins with observing large scale recordings of gene expr
   </a>
 </div>
 
-Some recent themes include multi-modal data analysis, biologically plausible theories of learning, automated segmentation of neuronal morphology, cell types and neuromodulation.
+Recent themes include multi-modal data analysis, theory of synaptic credit assignment, segmentation of neuronal morphology, dynamical models of population activity.
+# Some recent themes include multi-modal data analysis, biologically plausible theories of learning, automated segmentation of neuronal morphology, cell types and neuromodulation.
 
 We are located at the [Allen Institute](https://www.alleninstitute.org), where some of the most comprehensive neuroscience studies are conducted with a "Big Science, Team Science, Open Science" approach. We wish to thank the Allen Institute founders, Paul G. Allen and Jody Allen, for their vision, encouragement and support. We are grateful for funding from the National Institutes of Health.
 
