@@ -1,3 +1,33 @@
+- title: "A Biconvex Formulation for Stable Transport of Mixture Models with a Unique Solution"
+  authors: Y Marghi, K Jin, U S&uuml;mb&uuml;l
+  link:
+    url: https://arxiv.org/pdf/2606.02515
+    display: NeurIPS, 2027
+
+- title: "Interpretable time series analysis with Gumbel dynamics"
+  authors: Y Wang, TD Kim, E Shea-Brown, U S&uuml;mb&uuml;l
+  link:
+    url: https://arxiv.org/pdf/2509.21578
+    display: NeurIPS, 2027
+
+- title: "Identifying Connectivity Distributions from Neural Dynamics Using Flows"
+  authors: TD Kim, U Pereira-Obilinovic, Y Wang, E Shea-Brown, U S&uuml;mb&uuml;l
+  link:
+    url: https://arxiv.org/pdf/2603.26506
+    display: ICML, 2026
+
+- title: "Connecting single-cell transcriptomes to projectomes in the mouse visual cortex"
+  authors: S Sorensen, N Gouwens, Y Wang, M Mallory, A Budzillo, R Dalley, B Lee, O Gliko, H Kuo, X Kuang, ..., S Yao, H Gong, Q Luo, Q Wang, L Ng, U S&uuml;mb&uuml;l, Z Yao, T Jarsky, B Tasic, H Zeng
+  link:
+    url: https://www.nature.com/articles/s41586-026-10424-8
+    display: Nature, 2026
+
+- title: "SPINT: Spatial Permutation-Invariant Neural Transformer for Consistent Intracortical Motor Decoding"
+  authors: T Le, H Fang, J Li, T Nguyen, L Mi, A Orsborn, U S&uuml;mb&uuml;l, E Shlizerman
+  link:
+    url: https://arxiv.org/pdf/2507.08402
+    display: NeurIPS, 2025
+
 - title: "Evidence from spatial transcriptomics for the mosaic hypothesis and pure cell types in the cortex"
   authors: Y Wang, C Koch, U S&uuml;mb&uuml;l
   link:
@@ -9,12 +39,6 @@
   link:
     url: https://ojs.aaai.org/index.php/AAAI/article/view/32326
     display: AAAI, 2025
-
-- title: "SPINT: Spatial Permutation-Invariant Neural Transformer for Consistent Intracortical Motor Decoding"
-  authors: T Le, H Fang, J Li, T Nguyen, L Mi, A Orsborn, U S&uuml;mb&uuml;l, E Shlizerman
-  link:
-    url: https://arxiv.org/pdf/2507.08402
-    display: NeurIPS, 2025
 
 - title: "Layer-specific input to medial prefrontal cortex is linked to stress susceptibility"
   authors: ST Solakoglu, SE Erdener, O Gliko, A Can, U S&uuml;mb&uuml;l, E Eren-Kocak
